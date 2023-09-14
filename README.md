@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Images
+![Crypto1](https://github.com/Srinath-Kng/Crypto_Currency_Tracker/assets/85686300/a5237684-888e-4611-946b-242de06fc16c)
+![Crypto2](https://github.com/Srinath-Kng/Crypto_Currency_Tracker/assets/85686300/da758d3d-546f-4483-b758-5f835d44fa11)
+
+The coin checker is built using Angular and is hosted on GitHub Pages. It is open source and free to use.
+
+To get started, clone the repository and install the dependencies. Then, run the ng serve command to start the development server. The coin checker will be available at http://localhost:4200.
+
+To learn more about the coin checker, please see the README file.
+
+You can customize this description to fit your specific project. Here are some things to keep in mind when writing your description:
+
+Be clear and concise.
+Use keywords that people will be searching for.
+Highlight the features of your project.
+Make it easy for people to get started.
+Include links to relevant documentation and resources.
